@@ -130,7 +130,8 @@ A pesar de estar satisfecha con el resultado del trabajo y de haberme motivado c
 **Artículos y blogs ** 
 
 - Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-- 
+- Bruna, H. B. [Herna]. (2022, 27 mayo). Creando un corto Animado: Ciclo de correr [Vídeo]. YouTube. https://youtu.be/JUA0pBMqwsw
+- BaM Animation. (2022, 27 mayo). How to Start Animating Your Characters : 4 Principles [Vídeo]. YouTube. https://youtu.be/ynBENQJBQbE
 
 **Recursos y materiales audiovisuales:**
 
