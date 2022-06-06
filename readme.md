@@ -40,7 +40,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-Antes de empezar a crear el juego, realicé una serie de storyboards de cómo sería la estética del propio juego así como de sus personajes. Me limité a una paleta de colores cálidos de naranjas y rosas para una mayor cohesión entre todos los elementos del juego y diseñé los personajes acordes a esta paleta. todo el juego tiene una estética cartoon con fondos simples. Además, en el storyboard planteé la metodologia de juego y las interacciones que el usuário podría llevar a cabo.
+Antes de empezar a crear el juego, realicé una serie de storyboards de cómo sería la estética del propio juego, así como de sus personajes. Todo el juego tiene una estética cartoon con fondos simples. Además, en el storyboard planteé la metodologia de juego y las interacciones que el usuário podría llevar a cabo. "Rescate" comienza con una intro en la que nos sitúa en el mundo del juego y, posteriormente, nos conduce al menú principal donde el usuário puede acceder al juego o a contenido adicional como la galería de imágenes.
 
 ![story3](https://user-images.githubusercontent.com/106731799/172213845-a2c3cdda-a9a8-4230-86ce-c657d0a416a8.jpg)
 ![Stopy 1](https://user-images.githubusercontent.com/106731799/172213897-e7d8c6a9-fc83-4098-8174-5cac961bc6a3.jpg)
