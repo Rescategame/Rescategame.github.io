@@ -18,9 +18,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**    juego de aventuras y puzzles
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
+**Logotipo** : 
+(https://drive.google.com/file/d/1lauN8s6lXFNKxVZDrOTfatlyofV8Rgt2/view?usp=sharing)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
