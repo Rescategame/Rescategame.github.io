@@ -127,14 +127,19 @@ Este  proyecto es interesante porque ...
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:  música sin Copyright extraída de la biblioteca de sonidos de Youtube
+* Sonido: efectos de sonido sin Copyright extraído de la biblioteca de sonidos de Youtube
+* Imágenes:  Todas las imágenes son de diseño propio, excepto eñ cuadro de diálogo extraido de galerías de imágenes sin Copyright (extraído de [Pixabay](https://pixabay.com/es/))
+
+* Tipografía: MedievalSharp (Google Fonts)
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Clip Studio Paint
+- Adobe Photoshop 2020
+- Wondershare Filmora X
+- Audacity 3.1.3
 
 
 
@@ -142,4 +147,4 @@ Este  proyecto es interesante porque ...
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2022
