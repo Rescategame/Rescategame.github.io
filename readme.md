@@ -19,23 +19,23 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Estilo/género:**    juego de aventuras y puzzles
 
 **Logotipo** : 
-(https://drive.google.com/file/d/1lauN8s6lXFNKxVZDrOTfatlyofV8Rgt2/view?usp=sharing)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+![Sin título-1](https://user-images.githubusercontent.com/106731799/172197629-97ef6154-6942-4cda-8892-01dea834cb11.png)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Resolución:** 800x600px fijo y reescalable.
 
-**Tamaño proyecto:** 14MB 
+**Probado en:**   Google Chrome /Microsoft Edge/  Safari
+
+**Tamaño proyecto:** 17MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 06/06/2020
 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Twitter
-- Instagram
+- Instagram: 
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
