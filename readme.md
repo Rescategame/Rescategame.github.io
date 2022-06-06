@@ -35,7 +35,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Instagram: 
+- Instagram: https://www.instagram.com/miicing/
 
 # 2. Memoria del proyecto 
 
