@@ -105,17 +105,17 @@ Este  juego, a pesar de ser solo una demo, puede ser interesante para las person
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego: 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Juego: Quizz compuesto de tres preguntas con la posibilidad de perder tres veces, diálogos interactivos con los personajes, interacción con los obejtos del mapa y puzzle de código secreto para adivinar una contraseña y poder serguir avanzando en el juego. 
+- Menú interactivo y botónes personalizados a corde con la estética del juego
+- Video de proceso de creación de los sprites de movimiento del persoanje principal y vídeo de la música empleada en el juego.
+- Instrucciones y ayuda al usuario vinculada a los propios elementos del mapa.
+- Posibilidad de dialogar con los personajes y objetner más información de ellos según la opción seleccionada.
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+El jeugo presenta un par de errores al iniciar que no he conseguido solucionar tras haber revisado todos los archivos del propio juego. Además, se me ha complicado mucho el desarrollo del trabajo a cause de las dificultades y numerosos fallos que el programa me ha dado a lo largo del desarrollo del juego
 
 
 
@@ -153,7 +153,8 @@ Este  juego, a pesar de ser solo una demo, puede ser interesante para las person
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+![image](https://user-images.githubusercontent.com/106731799/172225957-69c98d96-e139-4352-8cf1-013f98fa35f9.png)
+
 
 https://creativecommons.org/licenses/?lang=es
 
