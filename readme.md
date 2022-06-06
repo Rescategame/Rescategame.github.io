@@ -37,16 +37,24 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Github:
 - Instagram: 
 
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
-
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
+Antes de empezar a crear el juego, realicé una serie de storyboards de cómo sería la estética del propio juego así como de sus personajes. Me limité a una paleta de colores cálidos de naranjas y rosas para una mayor cohesión entre todos los elementos del juego y diseñé los personajes acordes a esta paleta. todo el juego tiene una estética cartoon con fondos simples. Además, en el storyboard planteé la metodologia de juego y las interacciones que el usuário podría llevar a cabo.
+
+![story3](https://user-images.githubusercontent.com/106731799/172213845-a2c3cdda-a9a8-4230-86ce-c657d0a416a8.jpg)
+![Stopy 1](https://user-images.githubusercontent.com/106731799/172213897-e7d8c6a9-fc83-4098-8174-5cac961bc6a3.jpg)
+![story2](https://user-images.githubusercontent.com/106731799/172213910-76b00079-8a4a-4d50-8fa7-c65c3edf20f0.jpg)
+
+El juego empezaría con una cinemática en la que se exolicaría la historia y objetivo de la protagonista. En esta demo se incluye el enfrentamiento con el primer enemigo, en el que el usuario tendrá que responder a tres preguntas de forma correcta y un puzzle para abrir una puerta, así como diálogos interactivos.
+
+Una vez decidido el esquema y estética del juego realicé los fondos para el mismo y a partir de éstos los personajes:
+
+![personaje1](https://user-images.githubusercontent.com/106731799/172215235-78a6ff74-9485-4448-8801-d0ec575f10d8.jpg)
+![personaje2](https://user-images.githubusercontent.com/106731799/172215242-4a57a916-4c8a-4a37-b7c1-a069055c82d3.jpg)
+![DRAGON-PERSONAJE-2-op](https://user-images.githubusercontent.com/106731799/172215314-0fbc8dc6-4659-4887-8c75-77b13cfa167d.png)
 
 
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
 
