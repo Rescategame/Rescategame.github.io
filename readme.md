@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## (Rescate)
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,15 +8,14 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto Rescate
+**Titulo** : Rescate
 
 **Web:**   (url github.io)
 
 **Autor:**  Miriam Cintas Hidalgo
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
-
-**Estilo/género:**    juego 
+**Resumen** : "Rescate" es un videojuego de aventuras de fantasía en el que una guerrera tendrá que rescatar al rey de su país de las garras de un dragón. Sin embargo, a lo largo de su viaje se dará cuenta de que no todo es lo que parece. Este proyecto es solo una demo de lo que sería el primer capítulos del juego definitivo.
+**Estilo/género:**    juego de aventuras y puzzles
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
