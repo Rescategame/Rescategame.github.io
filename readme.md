@@ -115,16 +115,12 @@ Este  juego, a pesar de ser solo una demo, puede ser interesante para las person
 
 ### Etapa 3: Problemas identificados
 
-El jeugo presenta un par de errores al iniciar que no he conseguido solucionar tras haber revisado todos los archivos del propio juego. Además, se me ha complicado mucho el desarrollo del trabajo a cause de las dificultades y numerosos fallos que el programa me ha dado a lo largo del desarrollo del juego
+El jeugo presenta un par de errores al iniciar que no he conseguido solucionar tras haber revisado todos los archivos del propio juego. Además, se me ha complicado mucho el desarrollo del trabajo a cause de las dificultades y numerosos fallos que el programa me ha dado a lo largo del desarrollo del juego. De hecho, creo que la mayor dificultad y frustración que he tenido a lo largo de este trabajo es el propio programa empleado para realizar el proyecto debido a que me limitaba mucho a causa de todos los errores y bloqueos que me daba mientras trabajaba con él, llegando a eliminar mi trabajo más de una vez. También, quise realizar un ejercicio de colisiones pero el programa no me reconocía los archivos de código necesarios para ello, por lo que me vi obligada a eliminarlo del proyecto.
 
 
 
 # 4. Conclusiones 
-
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
+A pesar de estar satisfecha con el resultado del trabajo y de haberme motivado como un proyecto personal y original con mucha libertad creativa, creo que no refleja todo el esfuerzo y horas dedicadas a la elavoración del proyecto. Me gustaría haber tenido más tiempo para desarrollar mejor el trabajo, sobretodo la parte final en la que debíamos realizar el groso de la parte interactiva y del propio juego en sí, y pulir aquellos errores que no he conseguido solventar. Además, las numerosas complicaciones que he tenido con el programa y con fallos como el no reconocimeintos de los distintos scripts IDS me ha dificultado mucho el desarrollo del mismo y quitado tiempo en perfeccionar la parte final.
 
 
 
@@ -134,6 +130,7 @@ El jeugo presenta un par de errores al iniciar que no he conseguido solucionar t
 **Artículos y blogs ** 
 
 - Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+- 
 
 **Recursos y materiales audiovisuales:**
 
