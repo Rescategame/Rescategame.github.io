@@ -34,7 +34,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
+- Github:https://github.com/Rescategame/rescategame.github.io
 - Instagram: https://www.instagram.com/miicing/
 
 # 2. Memoria del proyecto 
