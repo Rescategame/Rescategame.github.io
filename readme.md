@@ -10,8 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Rescate
 
-**Web:**   https://github.com/Rescategame/rescategame.github.io
-
+**Web:**  
 **Autor:**  Miriam Cintas Hidalgo
 
 **Resumen** : "Rescate" es un videojuego de aventuras de fantasía en el que una guerrera tendrá que rescatar al rey de su país de las garras de un dragón. Sin embargo, a lo largo de su viaje se dará cuenta de que no todo es lo que parece. Este proyecto es solo una demo de lo que sería el primer capítulos del juego definitivo.
