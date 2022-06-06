@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Rescate
 
-**Web:**  https://github.com/Rescategame/rescategame.github.io
+**Web:**  https://rescategame.github.io/
 
 **Autor:**  Miriam Cintas Hidalgo
 
