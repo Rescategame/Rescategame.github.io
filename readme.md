@@ -46,7 +46,6 @@ Antes de empezar a crear el juego, realicé una serie de storyboards de cómo se
 ![Stopy 1](https://user-images.githubusercontent.com/106731799/172213897-e7d8c6a9-fc83-4098-8174-5cac961bc6a3.jpg)
 ![story2](https://user-images.githubusercontent.com/106731799/172213910-76b00079-8a4a-4d50-8fa7-c65c3edf20f0.jpg)
 
-El juego empezaría con una cinemática en la que se exolicaría la historia y objetivo de la protagonista. En esta demo se incluye el enfrentamiento con el primer enemigo, en el que el usuario tendrá que responder a tres preguntas de forma correcta y un puzzle para abrir una puerta, así como diálogos interactivos.
 
 Una vez decidido el esquema y estética del juego realicé los fondos para el mismo y a partir de éstos los personajes:
 
@@ -59,11 +58,10 @@ Una vez decidido el esquema y estética del juego realicé los fondos para el mi
 
 
 ### 2.2. Esquema de navegación 
+Tras la **intro** encontramos el **menú principal** donde se encuentran los accesos a **galería de imágenes**, **créditos** y **jugar**. Cada menú a excepción del juego, tienen opción para regresar al menú. En cuanto al **juego**, comienza con una cinemática que puede saltarse para iniciar el juego en sí y consta de una pantalla de introducción en la que se explican al usuario los controles y forma de juego. Además, en esta demo encontramos un quizz y un código secreto que el ussuario tendrá que acertar para seguir avanzando. una vez terminado el juego, se regresa al menú principal.
 
 
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
+![Gráfico de Organigrama para proyectos y empresas con iconos ordenado y moderno](https://user-images.githubusercontent.com/106731799/172219505-e394c722-a4b5-4059-950e-a79eceb71d1e.jpg)
 
 
 
@@ -72,28 +70,32 @@ Una vez decidido el esquema y estética del juego realicé los fondos para el mi
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+
 
 
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+Partimos del objetivo planteado por el profesor para crear un producto multimedia empleando la metodología de UX (User Experience). Desde el principio, tuve claro que estaba interesada en realizar un videojuego, puesto que me parecía una propuesta muy interesante para crear un proyecto personal y para aprender sobre cómo desarrollar un proyecto cinteractivo propio desde principio a fin. Además de que me supondría todo un reto personal.
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+**Investigación de campo** 
+
+Una vez realizada la primera lluvia de ideas, me inspiré en juegos de historias simples y lineales como **Mario Bross** o **ghost and goblins** que se basan en el esquema de salvar a la princesa de un monstruo los cuentos tradicionales. En mi caso, decidí invertir este esquema siendo el personaje femenino la protagonista y el villano el humano a rescatar en vez del monstruo.
+
+Además me basé en estilos de animación cartoon simples y en una paleta de color específica.
+
+![paleta](https://user-images.githubusercontent.com/106731799/172224389-098d8493-7d8b-4d7b-841d-933050831a19.jpg)
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
-
+Este  juego, a pesar de ser solo una demo, puede ser interesante para las personas a las que les guste la fantasía y los juegos de adivinanzas y puzzles. Además, de a aquellos amantes de la animación 2D y de la ilustración.
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todos los públicos, pero especificamente a jóvenes debido a la estética simple y a interesados en el la ilustración 2D.
 
 
 
@@ -103,7 +105,7 @@ Este  proyecto es interesante porque ...
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
+- Juego: 
 - Video 
 - Instrucciones y ayuda al usuario 
 - Menús y elementos de navegación (botones)
